@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log
+.cache/
+.eslintcache
+
+cfg/config.js
+
+dist/
+log/
+
+# ignore pm2 generated folders (on eu-105 eg.)
+.pm2/
+
+.bash_history
