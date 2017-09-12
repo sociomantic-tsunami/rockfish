@@ -20,7 +20,32 @@
     "test": "multi='mocha-notifier-reporter=- spec=-' mocha test --reporter mocha-multi --recursive --bail --require babel-core/register mocha.config.js",
     "bump": "yarn version"
   },
-  "author": "damian.rodriguez@sociomantic.com",
+  "author": "Sociomantic Labs GmbH",
+  "contributors": [
+    {
+      "name": "Josh Wilson",
+      "url": "https://github.com/josh-wilson-sociomantic"
+    },
+    {
+      "name": "Damian Rodriguez",
+      "url": "https://github.com/damian-rodriguez-sociomantic"
+    },
+    {
+      "name": "Wolfgang Niederhoffer",
+      "url": "https://github.com/wolfgang-niederhoffer-sociomantic"
+    },
+    {
+      "name": "Conor Cafferkey",
+      "url": "https://github.com/conor-cafferkey-sociomantic"
+    },
+],
+   "repository": {
+     "type": "git",
+     "url": "git@github.com:sociomantic-tsunami/rockfish.git"
+   },
+   "bugs": {
+       "url": "https://github.com/sociomantic-tsunami/rockfish/issues"
+   },
   "dependencies": {
     "base-64": "^0.1.0",
     "fetch-mock": "^5.9.4",
