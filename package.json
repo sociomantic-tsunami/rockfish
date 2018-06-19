@@ -37,15 +37,15 @@
     {
       "name": "Conor Cafferkey",
       "url": "https://github.com/conor-cafferkey-sociomantic"
-    },
-],
-   "repository": {
-     "type": "git",
-     "url": "git@github.com:sociomantic-tsunami/rockfish.git"
-   },
-   "bugs": {
-       "url": "https://github.com/sociomantic-tsunami/rockfish/issues"
-   },
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sociomantic-tsunami/rockfish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sociomantic-tsunami/rockfish/issues"
+  },
   "dependencies": {
     "base-64": "^0.1.0",
     "fetch-mock": "^5.9.4",
@@ -55,7 +55,7 @@
     "http-server": "^0.9.0",
     "isomorphic-fetch": "^2.2.1",
     "moment": "^2.18.1",
-    "pm2": "^2.4.4",
+    "pm2": "^2.10.4",
     "pm2-logrotate": "^2.2.0",
     "q": "^1.5.0",
     "winston": "^2.3.1"
