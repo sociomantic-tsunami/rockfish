@@ -21,7 +21,7 @@ winston.cli();
 winston.remove( winston.transports.Console );
 
 winston.add( winston.transports.Console, {
-    level       : 'help',
+    level       : 'silly',
     prettyPrint : true,
     colorize    : true,
     silent      : false,
