@@ -7,9 +7,7 @@
  * in the root directory of this source tree.
  *
  */
-?>
-
-<?php
+?><?php
 /*
 Plugin Name: Rockfish Sync
 Plugin URI: http://sociomantic.com/

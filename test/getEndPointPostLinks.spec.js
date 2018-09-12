@@ -7,7 +7,6 @@
  *
  */
 
-
 import fetchMock            from 'fetch-mock';
 
 import getEndpointPostLinks from '../src/lib/getEndpointPostLinks';

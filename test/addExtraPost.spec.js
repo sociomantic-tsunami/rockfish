@@ -7,7 +7,6 @@
  *
  */
 
-
 import addExtraPost     from '../src/lib/addExtraPost';
 import runBasicChecks   from './runBasicChecks';
 
