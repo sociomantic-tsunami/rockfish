@@ -82,7 +82,7 @@
     "eslint-plugin-react": "^7.0.1",
     "husky": "^0.13.3",
     "isparta-instrumenter-loader": "^1.0.0",
-    "lodash": "^4.8.2",
+    "lodash": "^4.17.19",
     "lolex": "^1.6.0",
     "mocha": "^3.2.0",
     "mocha-multi": "^0.10.0",
